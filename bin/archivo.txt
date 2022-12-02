@@ -1,0 +1,1 @@
+github es una muy util herramienta para grupos de programadores ya que se puede retroceder los cambios y usar distintas ramas para que las versiones no colapsen
